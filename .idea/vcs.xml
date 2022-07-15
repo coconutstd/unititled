@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/DayLog" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PublicGallery" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ReactNavigation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/StateManagement" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TodoApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hello-world" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/my-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/nuxtcachebusting" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/redux" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/solvecache" vcs="Git" />
+  </component>
+</project>
